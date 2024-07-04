@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    margin: 20px;
+}
+
+#map {
+    margin: 20px;
+}
+
+#info {
+    margin: 20px;
+}
+
+#auth {
+    margin: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input {
+    display: block;
+    margin-bottom: 10px;
+}
+
+button {
+    margin: 10px 20px;
+}
+
+a {
+    margin: 10px 10px
+}
+
+#city-photos img {
+    width: auto;
+    height: 200px;
+    margin: 10px 10px;
+}
+
+
